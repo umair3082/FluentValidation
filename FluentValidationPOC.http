@@ -1,0 +1,6 @@
+@FluentValidationPOC_HostAddress = http://localhost:5179
+
+GET {{FluentValidationPOC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
